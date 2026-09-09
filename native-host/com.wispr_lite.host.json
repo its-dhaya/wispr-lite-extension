@@ -1,0 +1,9 @@
+﻿{
+    "path":  "C:\\flutter scr\\wispr-lite\\wispr-lite\\native-host\\run_host.bat",
+    "description":  "Wispr Lite native messaging host",
+    "name":  "com.wispr_lite.host",
+    "allowed_origins":  [
+                            "chrome-extension://dagebpkoandjcegndnpcjfcnmgfmcdnh/"
+                        ],
+    "type":  "stdio"
+}
